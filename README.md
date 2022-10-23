@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  https://user-images.githubusercontent.com/83815560/197380858-5926f6f9-8fef-4775-b0b5-471e222581ff.gif
+  <img src=" https://user-images.githubusercontent.com/83815560/197380858-5926f6f9-8fef-4775-b0b5-471e222581ff.gif" alt="Hi, I'm Donyor 👋 I'm a 🚀 Uzbek developer 🚀 I ❤️ Happy Hardcore ❤️">
+
 </p>
