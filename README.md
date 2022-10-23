@@ -23,6 +23,9 @@
 <a href="https://twitter.com/uzbone96">
 <img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/>
 </a>
+ <a href="https://twitter.com/uzbone96">
+<img src="https://img.icons8.com/color/96/000000/weixing.png"/>
+</a>
 <a href="https://www.linkedin.com/in/donyor-rakhmatullaev-67b51b203/">
 <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/>
 </a>
