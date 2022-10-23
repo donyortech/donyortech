@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./donyottech.gif">
+  <img src="./donyottech.gif" autoplay>
 </p>
 
 ## :memo: Blog
@@ -72,5 +72,19 @@
   </a>
    <a href="">
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
+  </a>
+</p>
+
+## :memo: hobby
+
+<p align="center">
+  <a href="">
+    <img src="https://img.icons8.com/color/48/000000/office-365.png"/>
+  </a>
+  <a href="">
+    <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
+  </a>
+  <a href="">
+    <img src="https://img.icons8.com/color/48/000000/camtasia-studio.png"/>
   </a>
 </p>
