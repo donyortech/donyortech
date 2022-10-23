@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Donyor 👋 I'm a 🚀 Uzbek developer 🚀 I ❤️ Happy  ❤️">
-</p>
+
