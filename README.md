@@ -1,4 +1,4 @@
-### Hi Welcome to my Github profile 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=5015&pause=982&width=435&lines=Hello%2C+how+are+you+my+name+is+Donyor)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="./donyottech.gif" alt="Hi, I'm Donyor 👋 I'm a 🚀 Uzbek developer 🚀 I ❤️ Happy Hardcore ❤️">
