@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=5015&pause=982&width=900&height=80&lines=Hello%2C+how+are+you%2C+my+name+is+Donyor%2C+how+can+I+help+you%3F)](https://git.io/typing-svg)
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=5015&pause=982&width=900&height=80&lines=Hello%2C+how+are+you%2C+my+name+is+Donyor%2C+how+can+I+help+you%3F)](https://git.io/typing-svg)
+</p>
 
 <p align="center">
   <img src="./donyottech.gif" alt="Hi, I'm Donyor 👋 I'm a 🚀 Uzbek developer 🚀 I ❤️ Happy Hardcore ❤️">
