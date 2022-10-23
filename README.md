@@ -38,7 +38,7 @@
 <img src="https://img.icons8.com/color/96/000000/telegram-app--v1.png"/>
 </a>
 <a href="https://leetcode.com/MrDonyor/">
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/1A1A1A/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/>
 </a>
 </p>
 
