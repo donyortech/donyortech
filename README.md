@@ -76,7 +76,6 @@
    <a href="">
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
   </a>
-<<<<<<< HEAD
    <a href="">
     <img src="https://img.icons8.com/color/48/000000/npm.png"/>
   </a>
@@ -93,9 +92,7 @@
   </a>
   <a href="">
     <img src="https://img.icons8.com/color/48/000000/camtasia-studio.png"/>
-=======
   <a href="">
     <img src="https://img.icons8.com/fluency/48/000000/figma.png"/>
->>>>>>> 2dea0074928638db082722999a58611a0b612d35
   </a>
 </p>
