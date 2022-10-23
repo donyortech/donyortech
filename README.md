@@ -48,28 +48,28 @@
 
 <p align="center">
   <a href="">
-    <img src="https://img.icons8.com/color/96/000000/html-5.png"/>
+    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
   </a>
   <a href="">
-    <img src="https://img.icons8.com/color/96/000000/css3.png"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   </a>
    <a href="">
-    <img src="https://img.icons8.com/color/96/000000/sass.png"/>
+    <img src="https://img.icons8.com/color/48/000000/sass.png"/>
   </a>
    <a href="">
-   <img src="https://img.icons8.com/color/96/000000/tailwindcss.png"/>
+   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/>
   </a>
    <a href="">
-    <img src="https://img.icons8.com/color/96/000000/bootstrap.png"/>
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   </a>
   <a href="">
-    <img src="https://img.icons8.com/color/96/000000/javascript--v1.png"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   </a>
   <a href="">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo.png"/>
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo.png"/>
   </a>
    <a href="">
-    <img src="https://img.icons8.com/color/96/000000/react-native.png"/>
+    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
   </a>
    <a href="">
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
