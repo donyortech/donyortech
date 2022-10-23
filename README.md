@@ -47,7 +47,7 @@
 ## :memo: Skills:
 
 
-###Front-End
+#Front-End
 <p align="center">
   <a href="">
     <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
