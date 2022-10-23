@@ -45,7 +45,6 @@
 ## :memo: Skills developer
 
 <p align="center">
-### Front-End
   <a href="">
     <img src="https://img.icons8.com/color/96/000000/html-5.png"/>
   </a>
