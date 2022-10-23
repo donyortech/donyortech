@@ -23,6 +23,9 @@
 <a href="https://twitter.com/uzbone96">
 <img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/>
 </a>
+ <a href="hellocode77">
+<img src="https://img.icons8.com/color/96/000000/weixing.png"/>
+</a>
 <a href="https://www.linkedin.com/in/donyor-rakhmatullaev-67b51b203/">
 <img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/>
 </a>
@@ -73,6 +76,7 @@
    <a href="">
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
   </a>
+<<<<<<< HEAD
    <a href="">
     <img src="https://img.icons8.com/color/48/000000/npm.png"/>
   </a>
@@ -89,5 +93,9 @@
   </a>
   <a href="">
     <img src="https://img.icons8.com/color/48/000000/camtasia-studio.png"/>
+=======
+  <a href="">
+    <img src="https://img.icons8.com/fluency/48/000000/figma.png"/>
+>>>>>>> 2dea0074928638db082722999a58611a0b612d35
   </a>
 </p>
