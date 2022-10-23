@@ -74,7 +74,7 @@
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   </a>
   <a href="">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo.png"/>
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-  and-single-page-applications-logo-shadow-tal-revivo.png"/>
   </a>
    <a href="">
     <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
@@ -84,6 +84,9 @@
   </a>
    <a href="">
     <img src="https://img.icons8.com/color/48/000000/npm.png"/>
+  </a>
+  <a href="">
+    <img src="https://img.icons8.com/fluency/48/000000/figma.png"/>
   </a>
 </p>
 
@@ -98,7 +101,5 @@
   </a>
   <a href="">
     <img src="https://img.icons8.com/color/48/000000/camtasia-studio.png"/>
-  <a href="">
-    <img src="https://img.icons8.com/fluency/48/000000/figma.png"/>
-  </a>
+
 </p>
