@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./donyottech.gif" alt="Hi, I'm Donyor 👋 I'm a 🚀 Uzbek developer 🚀 I ❤️ Happy Hardcore ❤️">
-
+  <img src="./donyottech.gif">
 </p>
 
 ## :memo: Blog
