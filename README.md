@@ -72,6 +72,6 @@
     <img src="https://img.icons8.com/color/96/000000/react-native.png"/>
   </a>
    <a href="">
-    <img src="https://img.icons8.com/color/96/000000/git.png"/>
+    <img src="https://img.icons8.com/color/48/000000/git.png"/>
   </a>
 </p>
