@@ -44,7 +44,7 @@
 </a>
 </p>
 
-## :memo: Skills developer
+## :memo: Skills
 
 <p align="center">
   <a href="">
