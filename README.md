@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<p align="center">
+  <img src="![140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70](https://user-images.githubusercontent.com/83815560/197380828-7d005594-7a59-4fc9-88e3-ab18c5754466.gif)
+" alt="Hi, I'm Donyor 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
