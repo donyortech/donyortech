@@ -34,4 +34,15 @@
 <a href="https://discord.gg/Donyor#9385">
 <img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/>
 </a>
+<a href="https://t.me/donyor_rakhmatullaev">
+<img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="telegram"/>
+</a>
+<a href="https://leetcode.com/MrDonyor/">
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/>
+</a>
+<a href="https://leetcode.com/MrDonyor/">
+<img src="https://img.icons8.com/ultraviolet/40/FA5252/coursera.png"/>
+</a>
 </p>
+
+## :memo: Skills
