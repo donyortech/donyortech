@@ -89,6 +89,9 @@
   <a href="">
     <img src="https://img.icons8.com/fluency/48/000000/figma.png"/>
   </a>
+ <a href="">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"/>
+ </a>
 </p>
 
 ## :memo: hobby
