@@ -18,6 +18,9 @@
 <a href="https://www.facebook.com/DonyorRakhmatullaev/">
 <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="facebook"/>
 </a>
+<a href="https://t.me/donyor_rakhmatullaev">
+<img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>
+</a>
 <a href="https://www.instagram.com/donyor_rakhmatullaev/">
 <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="instagram"/>
 </a>
@@ -41,9 +44,6 @@
 </a>
 <a href="https://discord.gg/Donyor#9385">
 <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="discord"/>
-</a>
-<a href="https://t.me/donyor_rakhmatullaev">
-<img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>
 </a>
 <a href="https://t.me/donyor_rakhmatullaev">
 <img src="https://img.icons8.com/color/48/000000/youtube-play.png"/>
