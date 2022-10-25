@@ -8,11 +8,12 @@
 </p>
 
 ## :memo: Blog
-<img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
+
 
 ## 🌏 **CONNECT WITH ME**
 
 <p align="center">  
+ <img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
 <a href="mailto:rakhmatullayevdonyor@gmail.com">
 <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="email"/>
 </a>
@@ -54,8 +55,10 @@
 </a>
 </p>
 
-## 🕸️ **WEB DEV**
 
+
+
+## 🕸️ **WEB DEV**
 
   <a href="">
     <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
@@ -86,15 +89,15 @@
   </a>
    <a href="">
     <img src="https://img.icons8.com/color/48/000000/npm.png"/>
-  </a>
-  <a href="">
-    <img src="https://img.icons8.com/fluency/48/000000/figma.png"/>
-  </a>
+  </a>  
  <a href="">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"/>
  </a>
 
 ## 🍧 **DESIGN TOOLS**
+<a href="">
+    <img src="https://img.icons8.com/fluency/48/000000/figma.png"/>
+</a>
 
 ## ⚙️ **BACKEND DEV**
 
