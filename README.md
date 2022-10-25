@@ -83,12 +83,6 @@
    <a href="">
     <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
   </a>
-   <a href="">
-    <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  </a>
-   <a href="">
-    <img src="https://img.icons8.com/color/48/000000/npm.png"/>
-  </a>  
  <a href="">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"/>
  </a>
@@ -96,6 +90,9 @@
 ## 🍧 **DESIGN TOOLS**
 <a href="">
     <img src="https://img.icons8.com/fluency/48/000000/figma.png"/>
+</a>
+<a href="">
+    <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
 </a>
 
 ## ⚙️ **BACKEND DEV**
@@ -105,6 +102,12 @@
 ## 🎯 **PROGRAMMING LANGUAGES**
 
 ## 🛠️ **DEVOPS TOOLS**
+ <a href="">
+    <img src="https://img.icons8.com/color/48/000000/git.png"/>
+ </a>
+ <a href="">
+    <img src="https://img.icons8.com/color/48/000000/npm.png"/>
+ </a>  
 
 ## ☁️ **CLOUDS**
 
@@ -117,10 +120,7 @@
 <p align="center">
   <a href="">
     <img src="https://img.icons8.com/color/48/000000/office-365.png"/>
-  </a>
-  <a href="">
-    <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
-  </a>
+  </a> 
   <a href="">
     <img src="https://img.icons8.com/color/48/000000/camtasia-studio.png"/>
 
