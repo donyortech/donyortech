@@ -56,7 +56,7 @@
 
 ## 🕸️ **WEB DEV**
 
-<p align="center">
+
   <a href="">
     <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
   </a>
@@ -93,7 +93,6 @@
  <a href="">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"/>
  </a>
-</p>
 
 ## 🍧 **DESIGN TOOLS**
 
