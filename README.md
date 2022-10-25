@@ -8,8 +8,9 @@
 </p>
 
 ## :memo: Blog
+<img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
 
-## :link: Links
+## 🌏 **CONNECT WITH ME**
 
 <p align="center">  
 <a href="mailto:rakhmatullayevdonyor@gmail.com">
@@ -53,7 +54,7 @@
 </a>
 </p>
 
-## :memo: Skills:
+## 🕸️ **WEB DEV**
 
 <p align="center">
   <a href="">
@@ -93,6 +94,22 @@
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"/>
  </a>
 </p>
+
+## 🍧 **DESIGN TOOLS**
+
+## ⚙️ **BACKEND DEV**
+
+## 📅 **DATABASES**
+
+## 🎯 **PROGRAMMING LANGUAGES**
+
+## 🛠️ **DEVOPS TOOLS**
+
+## ☁️ **CLOUDS**
+
+## 📄 **CODE EDITOR & IDES**
+
+## ☃️ **MY LEARNING RESOURCES**
 
 ## :memo: hobby
 
