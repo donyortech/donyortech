@@ -12,7 +12,7 @@
 
 ## 🌏 **CONNECT ME**
 
-<p align="center">  
+  
 <a href="mailto:rakhmatullayevdonyor@gmail.com">
 <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="email"/>
 </a>
@@ -52,7 +52,7 @@
 <a href="https://leetcode.com/MrDonyor/">
 <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/>
 </a>
-</p>
+
 
 
 
