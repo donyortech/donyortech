@@ -83,9 +83,6 @@
    <a href="">
     <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
   </a>
- <a href="">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"/>
- </a>
 
 ## 🍧 **DESIGN TOOLS**
 <a href="">
@@ -113,8 +110,15 @@
 </a>
 
 ## 📅 **DATABASES**
-
-## 🎯 **PROGRAMMING LANGUAGES**
+ <a href="">
+   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+ </a>
+ <a href="">
+   <img src="https://img.icons8.com/color/48/000000/my-sql.png"/>
+ </a>
+  <a href="">
+   <img src="https://img.icons8.com/color/48/000000/my-sql.png"/>
+ </a>
 
 ## 🛠️ **DEVOPS TOOLS**
  <a href="">
@@ -122,12 +126,47 @@
  </a>
  <a href="">
     <img src="https://img.icons8.com/color/48/000000/npm.png"/>
- </a>  
+ </a> 
+ <a href="">
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/>
+ </a> 
+ <a href="">
+    <img src="https://img.icons8.com/color/48/000000/gitlab.png"/>
+ </a> 
+ <a href="">
+    <img src="https://img.icons8.com/color/48/000000/docker.png"/>
+ </a> 
 
 ## ☁️ **CLOUDS**
+ <a href="">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"/>
+ </a> 
+ <a href="">
+    <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/>
+ </a> 
+ <a href="">
+    <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+ </a> 
 
 ## 📄 **CODE EDITOR & IDES**
-
+ <a href="">
+   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+ </a> 
+ <a href="">
+   <img src="https://img.icons8.com/fluency/48/000000/visual-studio.png"/>
+ </a> 
+ <a href="">
+   <img src="https://img.icons8.com/fluency/48/000000/sublime-text.png"/>
+ </a> 
+ <a href="">
+   <img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+ </a> 
+  <a href="">
+   <img src="https://img.icons8.com/fluency/48/000000/anaconda--v2.png"/>
+ </a> 
+  <a href="">
+   <img src="https://img.icons8.com/officel/48/000000/java-eclipse.png"/>
+ </a> 
 ## ☃️ **MY LEARNING RESOURCES**
 
 ## :memo: hobby
