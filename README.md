@@ -172,14 +172,13 @@
 
 ## :memo: hobby
 
-<p align="center">
   <a href="">
     <img src="https://img.icons8.com/color/48/000000/office-365.png"/>
   </a> 
   <a href="">
     <img src="https://img.icons8.com/color/48/000000/camtasia-studio.png"/>
  </a>
-</p>
+
  
 ![GitHub](https://img.shields.io/github/license/donyortech/donyortech?style=for-the-badge)
 
