@@ -89,13 +89,28 @@
 
 ## 🍧 **DESIGN TOOLS**
 <a href="">
-    <img src="https://img.icons8.com/fluency/48/000000/figma.png"/>
+  <img src="https://img.icons8.com/fluency/48/000000/figma.png"/>
 </a>
 <a href="">
-    <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
 </a>
 
 ## ⚙️ **BACKEND DEV**
+<a href="">
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+</a>
+<a href="">
+  <img src="https://img.icons8.com/color/48/000000/python.png"/>
+</a>
+<a href="">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+</a>
+<a href="">
+  <img src="https://img.icons8.com/ios-filled/48/000000/qt.png"/>
+</a>
+<a href="">
+  <img src="https://img.icons8.com/fluency/48/000000/matlab.png"/>
+</a>
 
 ## 📅 **DATABASES**
 
@@ -123,7 +138,7 @@
   </a> 
   <a href="">
     <img src="https://img.icons8.com/color/48/000000/camtasia-studio.png"/>
-
+ </a>
 </p>
  
 ![GitHub](https://img.shields.io/github/license/donyortech/donyortech?style=for-the-badge)
