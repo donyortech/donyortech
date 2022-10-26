@@ -116,9 +116,7 @@
  <a href="">
    <img src="https://img.icons8.com/color/48/000000/my-sql.png"/>
  </a>
-  <a href="">
-   <img src="https://img.icons8.com/color/48/000000/my-sql.png"/>
- </a>
+
 
 ## 🛠️ **DEVOPS TOOLS**
  <a href="">
@@ -167,6 +165,7 @@
   <a href="">
    <img src="https://img.icons8.com/officel/48/000000/java-eclipse.png"/>
  </a> 
+ 
 ## ☃️ **MY LEARNING RESOURCES**
 
 ## :memo: hobby
