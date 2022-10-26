@@ -166,7 +166,6 @@
    <img src="https://img.icons8.com/officel/48/000000/java-eclipse.png"/>
  </a> 
  
-## ☃️ **MY LEARNING RESOURCES**
 
 ## :memo: hobby
 
