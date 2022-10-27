@@ -11,7 +11,7 @@
 ## :memo: Blog
 
 
-## 🌏 **CONNECT ME**
+## **CONNECT ME**
 
   
 <a href="mailto:rakhmatullayevdonyor@gmail.com">
@@ -58,7 +58,7 @@
 
 
 
-## 🕸️ **WEB DEV**
+##  **WEB DEV**
 
   <a href="">
     <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
@@ -85,7 +85,7 @@
     <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
   </a>
 
-## ⚙️ **BACKEND DEV**
+##  **BACKEND DEV**
 <a href="">
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 </a>
@@ -105,7 +105,7 @@
   <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 </a>
 
-## 🍧 **DESIGN TOOLS**
+##  **DESIGN TOOLS**
 <a href="">
   <img src="https://img.icons8.com/fluency/48/000000/figma.png"/>
 </a>
@@ -113,7 +113,7 @@
   <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
 </a>
 
-## 📅 **DATABASES**
+##  **DATABASES**
  <a href="">
    <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
  </a>
@@ -122,7 +122,7 @@
  </a>
 
 
-## 🛠️ **DEVOPS TOOLS**
+##  **DEVOPS TOOLS**
  <a href="">
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
  </a>
@@ -139,7 +139,7 @@
     <img src="https://img.icons8.com/color/48/000000/docker.png"/>
  </a> 
 
-## ☁️ **CLOUDS**
+##  **CLOUDS**
  <a href="">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"/>
  </a> 
@@ -150,7 +150,7 @@
     <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
  </a> 
 
-## 📄 **CODE EDITOR & IDES**
+##  **CODE EDITOR & IDES**
  <a href="">
    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
  </a> 
