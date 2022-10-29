@@ -81,15 +81,19 @@
   <a href="">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo.png"/>
   </a>
-   <a href="">
+  <a href="">
+    <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="48" height="48"/>
+  </a>
+  <a href="">
     <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
   </a>
   <a href="">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="48" height="48"/>
-  </a>  
+  </a>    
   <a href="">
-    <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="48" height="48"/>
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/>
   </a>
+  
   
 
 ##  **BACKEND DEV**
@@ -139,6 +143,9 @@
  </a>
  <a href="">
     <img src="https://img.icons8.com/color/48/000000/npm.png"/>
+ </a> 
+  <a href="">
+     <img src="https://img.icons8.com/doodle/48/000000/svetle.png"/>
  </a> 
  <a href="">
     <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/>
