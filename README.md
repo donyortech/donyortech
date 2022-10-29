@@ -84,6 +84,13 @@
    <a href="">
     <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
   </a>
+  <a href="">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="48" height="48"/>
+  </a>  
+  <a href="">
+    <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="48" height="48"/>
+  </a>
+  
 
 ##  **BACKEND DEV**
 <a href="">
@@ -96,7 +103,7 @@
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 </a>
 <a href="">
-  <img src="https://img.icons8.com/ios-filled/48/000000/qt.png"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="48" height="48"/>
 </a>
 <a href="">
   <img src="https://img.icons8.com/fluency/48/000000/matlab.png"/>
@@ -112,6 +119,10 @@
 <a href="">
   <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
 </a>
+<a href="">
+  <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/>
+</a>
+
 
 ##  **DATABASES**
  <a href="">
