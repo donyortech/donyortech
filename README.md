@@ -3,9 +3,9 @@
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="./donyottech.gif" autoplay>
-</p>
+</p> -->
 
 
 ## :memo: Blog
