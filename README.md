@@ -197,8 +197,8 @@
   <a href="">
     <img  src="https://img.icons8.com/color/48/000000/camtasia-studio.png"/>
  </a>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=donyortech&show_icons=true&locale=en&layout=compact" alt="donyortech" /></p></br>
 
- 
-![GitHub](https://img.shields.io/github/license/donyortech/donyortech?style=for-the-badge)
+<!-- ![GitHub](https://img.shields.io/github/license/donyortech/donyortech?style=for-the-badge) -->
 
 
