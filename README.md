@@ -7,10 +7,6 @@
   <img src="./donyottech.gif" autoplay>
 </p> -->
 
-
-## :memo: Blog
-
-
 ## **CONNECT ME**
 
   
