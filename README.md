@@ -1,15 +1,7 @@
 <p>
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=5015&pause=982&width=900&height=100&lines=Hello%2C+how+are+you%2C+my+name+is+Donyor%2C+how+can+I+help+you%3F"/>
 </p>
-
-
-<!-- <p align="center">
-  <img src="./donyottech.gif" autoplay>
-</p> -->
-
 ## **CONNECT ME**
-
-  
 <a href="mailto:rakhmatullayevdonyor@gmail.com">
 <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="email"/>
 </a>
@@ -50,10 +42,6 @@
 <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/>
 </a>
 
-
-
-
-
 ##  **WEB DEV**
 
   <a href="">
@@ -88,9 +76,7 @@
   </a>    
   <a href="">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/>
-  </a>
-  
-  
+  </a>  
 
 ##  **BACKEND DEV**
 <a href="">
@@ -123,7 +109,6 @@
   <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/>
 </a>
 
-
 ##  **DATABASES**
  <a href="">
    <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
@@ -131,7 +116,6 @@
  <a href="">
    <img src="https://img.icons8.com/color/48/000000/my-sql.png"/>
  </a>
-
 
 ##  **DEVOPS TOOLS**
  <a href="">
@@ -183,7 +167,6 @@
   <a href="">
    <img src="https://img.icons8.com/officel/48/000000/java-eclipse.png"/>
  </a> 
- 
 
 ## :memo: hobby
 
@@ -194,7 +177,3 @@
     <img  src="https://img.icons8.com/color/48/000000/camtasia-studio.png"/>
  </a>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=donyortech&show_icons=true&locale=en&layout=compact" alt="donyortech" /></p></br>
-
-<!-- ![GitHub](https://img.shields.io/github/license/donyortech/donyortech?style=for-the-badge) -->
-
-
