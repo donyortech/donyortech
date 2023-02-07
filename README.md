@@ -1,7 +1,9 @@
 <p>
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=5015&pause=982&width=900&height=100&lines=Hello%2C+how+are+you%2C+my+name+is+Donyor%2C+how+can+I+help+you%3F"/>
 </p>
+
 ## **CONNECT ME**
+
 <a href="mailto:rakhmatullayevdonyor@gmail.com">
 <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="email"/>
 </a>
