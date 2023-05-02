@@ -1,5 +1,5 @@
 <p>
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+👋+I'm+Magno+Efren.+Welcome!)](https://www.youtube.com/c/MagnoEfren/videos)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+Donyor+Welcome)](https://git.io/typing-svg)
 </p>
 
 ## **CONNECT ME**
