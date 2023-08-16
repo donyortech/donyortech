@@ -54,7 +54,7 @@
 
 ###
 
-<p align="left">Social media</p>
+<h2 align="left">Social media</h2>
 
 ###
 
@@ -82,7 +82,7 @@
 
 ###
 
-<p align="left">State</p>
+<h2 align="left">State</h2>
 
 ###
 
