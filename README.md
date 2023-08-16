@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Donyor and I'm a Developer from Uzbekistan</p>
+<h2 align="left">My name is Donyor and I'm a Developer from Uzbekistan</h2>
 
 ###
 
